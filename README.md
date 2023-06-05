@@ -2,13 +2,11 @@
 
 Я Frontent Developer из России.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: На текущий момент практикуюсь в Яндекс Практикуме. До этого делал веб сайты в Figma.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: На текущий момент пытаюсь совместить дизайн и новые знания.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Есть какое то то предложение ? Пишите на почту rdr2onenew@gmail.com
 
 ---
 
