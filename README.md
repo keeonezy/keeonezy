@@ -1,8 +1,10 @@
 ### Привет всем 👋
 
+Я Frontent Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
 ---
 
-### :hammer_and_wrench: Инструкменты и языки программирования :
+### :hammer_and_wrench: Инструменты и языки программирования :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
